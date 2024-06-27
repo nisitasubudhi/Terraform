@@ -15,6 +15,7 @@ Infrastructure as Code (IaC)- Terraform enables you to define your infrastructur
 
 
 Pre-requisites:-
+
 •	Basic knowledge of AWS & Terraform
 
 •	AWS Account

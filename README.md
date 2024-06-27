@@ -410,7 +410,6 @@ STEP-7 (Create a file for Application Load Balancer)
 
 •	Now, we will create alb.tf file & add the below code to it.
 
-# Creating External LoadBalancer
 
 resource "aws_lb" "external-alb" {
 

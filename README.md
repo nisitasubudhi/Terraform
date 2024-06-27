@@ -9,23 +9,34 @@ Infrastructure as Code (IaC)- Terraform enables you to define your infrastructur
 
 Pre-requisites:-
 •	Basic knowledge of AWS & Terraform
+
 •	AWS Account
+
 •	IAM user account/ Root account
+
 •	GitHub account
+
 •	AWS access & secret key
 
 Setting up the environment
 •	Launch an ec2 instance.
+
 •	Connect it
+
 •	Install terraform.
 
 Setting Up AWS Infrastructure:
 
 •	VPC and Subnets (Create an isolated network & Public and private subnets for different tiers.)
+
 •	Internet Gateway and Route Table (Enable internet access & Manage routing rules for subnets.)
+
 •	Application Load Balancer (Distribute incoming traffic across multiple EC2 instances.)
+
 •	EC2 Instances with User Data (Run application code with Bootstrap script to set up instances on launch.)
+
 •	RDS Instance (Managed relational database service)
+
 •	Security Groups (Allow traffic to web servers & Allow traffic to RDS.)
 
 

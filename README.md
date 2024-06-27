@@ -29,6 +29,7 @@ Pre-requisites:-
 
 
 Setting up the environment
+
 •	Launch an ec2 instance.
 
 •	Connect it

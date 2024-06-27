@@ -1,11 +1,18 @@
 # Terraform
 Three-tier architecture
+
+
 Topic – Deploy three-tier architecture in AWS using Terraform 
+
 
 Terraform:- 
 Terraform is an infrastructure-as-code software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON.
 
+
+
 Infrastructure as Code (IaC)- Terraform enables you to define your infrastructure resources and configurations in code using HashiCorp Configuration Language (HCL). This approach treats your infrastructure as code, making it versionable, repeatable, and more manageable.
+
+
 
 Pre-requisites:-
 •	Basic knowledge of AWS & Terraform
@@ -18,12 +25,16 @@ Pre-requisites:-
 
 •	AWS access & secret key
 
+
+
 Setting up the environment
 •	Launch an ec2 instance.
 
 •	Connect it
 
 •	Install terraform.
+
+
 
 Setting Up AWS Infrastructure:
 
